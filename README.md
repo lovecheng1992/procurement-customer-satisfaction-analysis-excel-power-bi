@@ -53,7 +53,7 @@ Excel (Pivot Tables, VLOOKUP, MINIFS, weighted calculations, regression, ANOVA) 
 
 
 - **Average Price & Volatility** – Pivot tables and box plots highlight high/low prices and category-level volatility. Categories with highest volatility: **Emissions, Transmission, Electronics**.  
-  ![Pivot Table – Average Price](screenshots/a2_price_volatility_pivot.png)  
+  ![Pivot Table – Average Price](screenshots/a2_avg_price_pivot.png)  
   ![Box Plot – Price Volatility](screenshots/a2_price_volatility_boxplot.png)
 
 - **Weighted Average Price & Supplier Ranking** – Weighted averages combine unit price and quantity to identify suppliers with the greatest impact on total spend. Overall cheapest supplier: **MotorTech USA LLC**.  
@@ -91,12 +91,12 @@ AutoFix Services Oy wanted to understand customer satisfaction and loyalty to im
 
 ### Analysis & Key Results
 **Customer Dashboard (Power BI)**  
-![Power BI Dashboard Screenshot](dashboard_screenshot.png)
+![Power BI Dashboard Screenshot](screenshots/b1_dashboard.png)
 
 - Overall satisfaction is low (3.11/5) with NPS of -58, highlighting a predominantly detractor base.  
 - **Excel Supporting Screenshots:**  
-  ![Excel Correlation Screenshot](correlation_screenshot.png)  
-  ![Pivot Table Screenshot](comments_pivot_screenshot.png)  
+  ![Excel Correlation Screenshot](screenshots/b2_correlation_wait_satisfaction.png) 
+  ![Pivot Table Screenshot](screenshots/b3_customer_comments_pivot.png)
 
 - Wait times negatively correlate with satisfaction (r = -0.8632).  
 - Customer comments indicate communication, service quality, and waiting/delays are the main areas needing improvement.  
