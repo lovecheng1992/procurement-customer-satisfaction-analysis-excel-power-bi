@@ -64,18 +64,18 @@ Excel (Pivot Tables, VLOOKUP, MINIFS, weighted calculations, regression, ANOVA) 
 
 - **Statistical Checks** – Regression and ANOVA conducted in **Excel** to assess relationships between lead time, spend, and customer satisfaction/NPS.  
 
-- **Interactive Dashboard in Power BI**  
+- **Interactive Dashboard in Power BI** 
+
+![Power BI Dashboard Overview](screenshots/a5_dashboard.png) 
 To complement the Excel analysis, a **Power BI dashboard** was created for visual exploration of supplier and category performance:
 
-- **Average Lead Time by Product Category** – Identifies categories with longer or shorter lead times to assess operational efficiency.  
-- **Supplier Market Share by Product Category** – Shows each supplier's contribution to total spend in each category, highlighting reliance on specific suppliers.  
-- **Monthly Spend by Supplier & Product Category** – Interactive stacked bar charts to visualize trends and seasonal spending patterns.  
-- **Key Metrics Cards** – Summarize total spend, total quantity, average lead time, and supplier count for a quick overview.  
-- **Slicers** – Allow filtering by supplier, product category, month, or region for detailed analysis.
+- Average Lead Time by Product Category – Identifies categories with longer or shorter lead times to assess operational efficiency.  
+- Supplier Market Share by Product Category – Shows each supplier's contribution to total spend in each category, highlighting reliance on specific suppliers.  
+- Monthly Spend by Supplier & Product Category – Interactive stacked bar charts to visualize trends and seasonal spending patterns.  
+- Key Metrics Cards – Summarize total spend, total quantity, average lead time, and supplier count for a quick overview.  
+- Slicers – Allow filtering by supplier, product category, month, or region for detailed analysis.
 
 These visualizations make it easier to detect trends, outliers, and opportunities for cost savings that may not be obvious from Excel pivot tables alone.
-
-![Power BI Dashboard Overview](screenshots/a5_dashboard.png)
 
 ---
 
